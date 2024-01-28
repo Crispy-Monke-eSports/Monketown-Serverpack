@@ -2,6 +2,9 @@
 
 This modpack is intended for friends of me playing on our private minecraft server. However you can still use it on your own, as it can boost performance and add proximity voice chat. Now also includes Create and other mods to enhance the experience!
 
+## Download
+[<img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/modpack/monketown-serverpack)
+
 ## What's included?
 
 Here is the mods that really makes the difference. To see all included mods and resource packs, please look at the version you want and look at the dependencies.
